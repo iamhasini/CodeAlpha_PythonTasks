@@ -8,7 +8,7 @@ Tasks Completed
 - **Task 4:** Basic Chatbot
 
 How to Run 
-bash
+-bash
 - python task1_hangman.py
 - python task2_stock_tracker.py
 - python task4_chatbot.py
