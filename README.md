@@ -9,9 +9,9 @@ Tasks Completed
 
 How to Run 
 bash
-python task1_hangman.py
-python task2_stock_tracker.py
-python task4_chatbot.py
+- python task1_hangman.py
+- python task2_stock_tracker.py
+- python task4_chatbot.py
 
 Tech Used 
 - Python 3
