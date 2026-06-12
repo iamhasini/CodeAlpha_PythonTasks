@@ -1,4 +1,4 @@
- CodeAlpha Python Internship Tasks 🐍
+ CodeAlpha Python Internship Tasks 
 
 Python programming tasks completed during my internship at CodeAlpha.
 
@@ -13,7 +13,7 @@ python task1_hangman.py
 python task2_stock_tracker.py
 python task4_chatbot.py
 
-Tech Used 🛠
+Tech Used 
 - Python 3
 - Libraries: random, datetime, csv, os
 
